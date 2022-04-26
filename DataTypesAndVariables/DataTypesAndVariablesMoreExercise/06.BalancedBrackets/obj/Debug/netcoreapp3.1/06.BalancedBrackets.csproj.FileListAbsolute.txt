@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.exe
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.deps.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\bin\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.genruntimeconfig.cache

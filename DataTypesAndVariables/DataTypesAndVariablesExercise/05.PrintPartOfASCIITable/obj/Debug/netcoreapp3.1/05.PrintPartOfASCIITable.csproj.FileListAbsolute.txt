@@ -1,0 +1,13 @@
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.exe
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.deps.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\05.PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05.PrintPartOfASCIITable.genruntimeconfig.cache

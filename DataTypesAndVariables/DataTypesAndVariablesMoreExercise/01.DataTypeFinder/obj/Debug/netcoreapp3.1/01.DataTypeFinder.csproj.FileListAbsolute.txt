@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.exe
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.deps.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.genruntimeconfig.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csproj.AssemblyReference.cache

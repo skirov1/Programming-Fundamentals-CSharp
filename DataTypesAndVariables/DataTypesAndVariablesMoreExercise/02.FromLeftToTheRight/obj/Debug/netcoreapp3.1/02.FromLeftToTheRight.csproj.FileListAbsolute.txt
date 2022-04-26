@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.exe
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.deps.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesMoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp3.1\02.FromLeftToTheRight.genruntimeconfig.cache

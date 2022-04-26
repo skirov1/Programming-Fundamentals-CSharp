@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.exe
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.deps.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.genruntimeconfig.cache

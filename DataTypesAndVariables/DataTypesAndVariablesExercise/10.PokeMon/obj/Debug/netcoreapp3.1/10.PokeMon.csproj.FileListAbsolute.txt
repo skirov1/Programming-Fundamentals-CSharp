@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.exe
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.deps.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.dll
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.pdb
+D:\C#\SoftUni\Fundamentals\DataTypesAndVariablesExercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.genruntimeconfig.cache
