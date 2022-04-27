@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.exe
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.deps.json
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.dll
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\bin\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.pdb
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.dll
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.pdb
+D:\C#\SoftUni\Fundamentals\ArraysMoreExercise\01. EncryptSortAndPrintArray\obj\Debug\netcoreapp3.1\01. EncryptSortAndPrintArray.genruntimeconfig.cache

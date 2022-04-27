@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.exe
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.deps.json
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.dll
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.pdb
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.dll
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.pdb
+D:\C#\SoftUni\Fundamentals\ArraysLab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02.PrintNumbersInReverseOrder.genruntimeconfig.cache
