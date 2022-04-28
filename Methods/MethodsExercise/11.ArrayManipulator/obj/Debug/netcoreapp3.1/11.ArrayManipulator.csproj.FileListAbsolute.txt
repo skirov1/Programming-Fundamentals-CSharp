@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.exe
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.deps.json
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.dll
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\bin\Debug\netcoreapp3.1\11.ArrayManipulator.pdb
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.dll
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.pdb
+D:\C#\SoftUni\Fundamentals\MethodsExercise\11.ArrayManipulator\obj\Debug\netcoreapp3.1\11.ArrayManipulator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.exe
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.deps.json
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.dll
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.dll
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.genruntimeconfig.cache
+D:\C#\SoftUni\Fundamentals\MethodsExercise\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csproj.AssemblyReference.cache

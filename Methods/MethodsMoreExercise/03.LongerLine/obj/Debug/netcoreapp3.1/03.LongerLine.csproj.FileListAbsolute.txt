@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.exe
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.deps.json
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.dll
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\bin\Debug\netcoreapp3.1\03.LongerLine.pdb
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.dll
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.pdb
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.genruntimeconfig.cache
+D:\C#\SoftUni\Fundamentals\MethodsMoreExercise\03.LongerLine\obj\Debug\netcoreapp3.1\03.LongerLine.csproj.AssemblyReference.cache

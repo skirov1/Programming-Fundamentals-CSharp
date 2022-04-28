@@ -1,0 +1,13 @@
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.exe
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.deps.json
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.dll
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\bin\Debug\netcoreapp3.1\03.Calculations.pdb
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.dll
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.pdb
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\03.Calculations\obj\Debug\netcoreapp3.1\03.Calculations.genruntimeconfig.cache

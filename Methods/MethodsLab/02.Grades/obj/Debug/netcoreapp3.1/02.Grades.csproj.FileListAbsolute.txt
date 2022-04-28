@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.exe
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.deps.json
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.dll
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\bin\Debug\netcoreapp3.1\02.Grades.pdb
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.dll
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.pdb
+D:\C#\SoftUni\Fundamentals\01.SignOfIntegerNumbers\02.Grades\obj\Debug\netcoreapp3.1\02.Grades.genruntimeconfig.cache

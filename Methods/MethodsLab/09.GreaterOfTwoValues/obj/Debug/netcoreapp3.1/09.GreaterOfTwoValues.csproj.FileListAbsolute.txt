@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.exe
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.deps.json
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.dll
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.pdb
+D:\C#\SoftUni\Fundamentals\MethodsLab\09.GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09.GreaterOfTwoValues.genruntimeconfig.cache
