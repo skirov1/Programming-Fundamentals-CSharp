@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.exe
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.deps.json
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.dll
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\bin\Debug\netcoreapp3.1\07.AppendArrays.pdb
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.dll
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.pdb
+D:\C#\SoftUni\Fundamentals\ListsExercise\07.AppendArrays\obj\Debug\netcoreapp3.1\07.AppendArrays.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.exe
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.deps.json
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.dll
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.pdb
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.dll
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.pdb
+D:\C#\SoftUni\Fundamentals\ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.genruntimeconfig.cache
