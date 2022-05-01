@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.exe
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.deps.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\netcoreapp3.1\01.AdvertisementMessage.genruntimeconfig.cache

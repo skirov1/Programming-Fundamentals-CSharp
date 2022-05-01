@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\bin\Debug\netcoreapp3.1\01.CompanyRoster.exe
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\bin\Debug\netcoreapp3.1\01.CompanyRoster.deps.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\bin\Debug\netcoreapp3.1\01.CompanyRoster.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\bin\Debug\netcoreapp3.1\01.CompanyRoster.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\bin\Debug\netcoreapp3.1\01.CompanyRoster.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\bin\Debug\netcoreapp3.1\01.CompanyRoster.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\01.CompanyRoster\obj\Debug\netcoreapp3.1\01.CompanyRoster.genruntimeconfig.cache

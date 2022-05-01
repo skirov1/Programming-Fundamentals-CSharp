@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.exe
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.deps.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesLab\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.genruntimeconfig.cache

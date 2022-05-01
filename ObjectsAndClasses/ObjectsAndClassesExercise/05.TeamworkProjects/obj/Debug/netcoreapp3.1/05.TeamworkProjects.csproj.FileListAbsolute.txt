@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.exe
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.deps.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.exe
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.deps.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\bin\Debug\netcoreapp3.1\02.OldestFamilyMember.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesMoreExercise\02.OldestFamilyMember\obj\Debug\netcoreapp3.1\02.OldestFamilyMember.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\bin\Debug\netcoreapp3.1\04.Students.exe
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\bin\Debug\netcoreapp3.1\04.Students.deps.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\bin\Debug\netcoreapp3.1\04.Students.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\bin\Debug\netcoreapp3.1\04.Students.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\bin\Debug\netcoreapp3.1\04.Students.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\bin\Debug\netcoreapp3.1\04.Students.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.dll
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.pdb
+D:\C#\SoftUni\Fundamentals\ObjectsAndClassesExercise\04.Students\obj\Debug\netcoreapp3.1\04.Students.genruntimeconfig.cache
