@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.exe
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.deps.json
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.dll
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.pdb
+D:\C#\SoftUni\Fundamentals\TextProcessingMoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.ExtractPersonInformation.genruntimeconfig.cache

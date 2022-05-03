@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.exe
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.deps.json
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.dll
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.pdb
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.dll
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.pdb
+D:\C#\SoftUni\Fundamentals\TextProcessingExercise\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.genruntimeconfig.cache
