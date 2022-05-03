@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.exe
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.deps.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.dll
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\bin\Debug\netcoreapp3.1\02.AMinerTask.pdb
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.dll
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.pdb
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\02.AMinerTask\obj\Debug\netcoreapp3.1\02.AMinerTask.genruntimeconfig.cache

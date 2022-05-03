@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.exe
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.deps.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.dll
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.dll
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+D:\C#\SoftUni\Fundamentals\AssociativeArraysLab\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.genruntimeconfig.cache

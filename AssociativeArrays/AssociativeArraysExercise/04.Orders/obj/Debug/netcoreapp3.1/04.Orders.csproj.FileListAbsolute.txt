@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.exe
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.deps.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.dll
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.pdb
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.dll
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.pdb
+D:\C#\SoftUni\Fundamentals\AssociativeArraysExercise\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.genruntimeconfig.cache
