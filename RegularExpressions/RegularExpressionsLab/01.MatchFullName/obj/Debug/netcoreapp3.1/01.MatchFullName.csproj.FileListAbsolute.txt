@@ -1,0 +1,14 @@
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.exe
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.deps.json
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.json
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.dev.json
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.dll
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\bin\Debug\netcoreapp3.1\01.MatchFullName.pdb
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.AssemblyReference.cache
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfoInputs.cache
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfo.cs
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.dll
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.pdb
+D:\C#\SoftUni\Fundamentals\RegularExpressionsLab\01.MatchFullName\obj\Debug\netcoreapp3.1\01.MatchFullName.genruntimeconfig.cache
